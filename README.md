@@ -1,3 +1,6 @@
+原创作者： ustbhuangyi
+教程链接 https://coding.imooc.com/class/107.html
+
 # vue-music，高级vue项目
 
 > A Vue.js project
